@@ -1,14 +1,21 @@
 html {
   background-color: #f2f1ed;
+  color: #222
   font-family: georgia, serif;
-}
-
-img {
-    width: 100%;
-    height: auto;
+  font-size: 2rem;
 }
 h2 {
   text-transform: uppercase;
   color: #5d8432
 
+}
+figcaption {
+font-size: 0.6rem;
+font-style: italic;
+text-align: center;
+
+
+}
+img {
+    width: 100%;
 }
