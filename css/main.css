@@ -3,18 +3,35 @@ html {
   color: #222
   font-family: georgia, serif;
   font-size: 2rem;
+  line-height: 1.5
+}
+a {
+  color: darkgreen;
+  text-decoration: none;
+}
+a:visited {
+  color: limegreen;
+}
+a:hover {
+  color: orange;
+}
+a:focus {
+  color: blue;
+}
+a:active {
+  color:red;
+}
+
+
 }
 h2 {
   text-transform: uppercase;
   color: #5d8432
-
 }
 figcaption {
 font-size: 0.6rem;
 font-style: italic;
 text-align: center;
-
-
 }
 img {
     width: 100%;
