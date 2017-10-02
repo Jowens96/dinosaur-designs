@@ -5,6 +5,9 @@ html {
   font-size: 2rem;
   line-height: 1.5;
 }
+ul {
+  list-style: none;
+}
 a {
   color: #793284;
   font-family: 'Patua One', cursive;
