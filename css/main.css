@@ -5,35 +5,41 @@ html {
   font-size: 2rem;
   line-height: 1.5;
 }
+
 ul {
   list-style: none;
 }
+
 a {
   color: #793284;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
   font-size: 1.125rem;
   font-weight: bold;
   list-style-type: none;
   text-decoration: none;
 }
+
 a:hover {
   color: #b42885;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
   font-size: 1.125rem;
   font-weight: bold;
   list-style-type: none;
   text-decoration: none;
 }
+
 h2 {
   color: #5d8432;
-  font-family: 'Patua One', cursive;
+  font-family: "Patua One", cursive;
   text-transform: uppercase;
 }
+
 figcaption {
-font-size: 0.6rem;
-font-style: italic;
-text-align: center;
+  font-size: 2rem;
+  font-style: italic;
+  text-align: center;
 }
+
 img {
-    width: 100%;
+  width: 100%;
 }
